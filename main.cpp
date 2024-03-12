@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    auto result = (10 <=> 26) > 0;
+    auto result = (10 <=> 23) > 0;
     cout << result << endl;
 }
